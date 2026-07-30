@@ -1,1 +1,1 @@
-This is used for the learning of Databricks.
+This is used for learning Databricks.
